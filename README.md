@@ -1,2 +1,2 @@
 # Genetic-algorithm
-A Genetic algorithm
+This code is a part of a bigger Project.
